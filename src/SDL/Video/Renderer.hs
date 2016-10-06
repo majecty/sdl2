@@ -82,7 +82,7 @@ module SDL.Video.Renderer
   , masksToPixelFormat
 
   -- * Textures
-  , Texture
+  , Texture(..)
 
   -- ** Creating, Using and Destroying 'Texture's
   , createTexture
